@@ -21,3 +21,8 @@ En ce qui concerne mes objectifs personnels je veux trouver un métier qui me pa
 - Jugement et prise de décision
 - Esprit d'équipe
 ## Présentation des projets universitaires
+- Escape Game en 3D sur Unity en C#
+- Le verger jeu plateau avec du JAVA/JAVA FX
+- Organisation d'un forum / JPO
+- Mise en place d'un réseau fictif pour une entreprise
+- Créer une base de donnée à partir d'un fichier csv
