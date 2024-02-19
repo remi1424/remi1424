@@ -9,7 +9,7 @@ En ce qui concerne mes objectifs personnels je veux trouver un métier qui me pa
 ### Hard Skills
 - HTML/CSS
 - JS
-- PYHTHON
+- PYTHON
 - JAVA
 - C/C++
 
