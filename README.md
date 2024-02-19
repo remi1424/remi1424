@@ -1,5 +1,19 @@
 # Qui suis-je ?
-Blanchard Rémi 20 ans, étudiant en deuxième année de BUT Informatique. 
+<table>
+  <tr>
+    <td>Blanchard Rémi</td>
+    <td>20 ans</td>
+  </tr>
+  <tr>
+    <td>Etudiant</td>
+    <td>Deuxième année BUT Informatique</td>
+  </tr>
+</table>
+
+## Mon parcours
+- Lycée général Cabanis spécialité Mathématique, NSI et SI.
+- But Informatique Limoges
+
 ## Mes objectifs
 Mes objectifs professionnels sont de pouvoir acquérir au cours de ma carrière des compétences et de l'expérience afin de pouvoir évoluer et diriger une équipe.
 Ce qui est nécessaire dans le monde du travail est la bonne cohésion entre les différents partenaires. J'aspire donc à développer mes compétences de communication pour mieux comprendre les besoins de mes collègues.  
