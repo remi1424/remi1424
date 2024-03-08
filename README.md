@@ -40,3 +40,7 @@ En ce qui concerne mes objectifs personnels je veux trouver un métier qui me pa
 - Organisation d'un forum / JPO
 - Mise en place d'un réseau fictif pour une entreprise
 - Créer une base de donnée à partir d'un fichier csv
+
+## Me contacter
+Mail : remi.blanchard1@etu.unilim.fr
+Numéro : 06 65 41 57 64
