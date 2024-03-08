@@ -1,3 +1,5 @@
+![alt text](./Bandeau.png)
+
 # Qui suis-je ?
 <table>
   <tr>
