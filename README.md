@@ -74,7 +74,7 @@ En ce qui concerne mes objectifs personnels je veux trouver un métier qui me pa
 ### Organisation d'un forum / JPO
 ### Mise en place d'un réseau fictif pour une entreprise
 ### Créer une base de donnée à partir d'un fichier csv
-### Mise en place d'une application pour gérer un calendrier prévisionnel
+### Mise en place d'une application pour gérer un calendrier prévisionnel ( en cours )
 <img  class="image" src="Calendrier.png" alt="calendrier" width="100%"/>
 
   ## Expériences
