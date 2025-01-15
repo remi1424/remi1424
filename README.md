@@ -25,17 +25,46 @@ Ce qui est nécessaire dans le monde du travail est la bonne cohésion entre les
 En ce qui concerne mes objectifs personnels je veux trouver un métier qui me passionne et où je m'épanouis. De plus je compte maitriser plusieurs langages et en apprendre de nouveaux. Ensuite j'espère pouvoir travailler en France mais aussi à  l'étranger. Ces différentes expériences professionnelles peuvent m'apporter un enrichissement personnel.
 ## Compétences et techniques transversales
 ### Hard Skills
+### Développement Web
+| **Catégorie**            | **Compétences**                                                                                                                                                                       |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Développement Web**     | <img src="https://skillicons.dev/icons?i=js,django,html,css,react,nodejs,postman,php&perline=8" alt="Développement Web" width="400px" />                                               |
 
-| **Catégorie**                     | **Compétences**                                                                                                                                                                                                                  |
-|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Développement Web**            | <img src="https://skillicons.dev/icons?i=js,django,html,css,react,nodejs,postman,php&perline=8" alt="Développement Web" width="400px" />                                                                                           |
-| **Développement Mobile**         | <img src="https://skillicons.dev/icons?i=dotnet,cs,kotlin&perline=8" alt="Développement Mobile" width="150px" />                                                                                                                     |
-| **Développement d'Applications** | <img src="https://skillicons.dev/icons?i=python,java,rust,cpp&perline=8" alt="Développement d'Applications" width="200px" />                                                                                                         |
-| **Bases de Données**             | <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=8" alt="Bases de Données" width="150px" />                                                                                                                          |
-| **Réseau / Virtualisation / CI/CD** | <img src="https://skillicons.dev/icons?i=linux,jenkins,gitlab,docker&perline=8" alt="Réseau / Virtualisation / CI/CD" width="250px" />                                                                                               |
-| **Environnements de Développement** | <img src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,webstorm&perline=8" alt="Environnements de Développement" width="250px" />                                                                                         |
-| **Gestion de Projet**            | <img src="https://skillicons.dev/icons?i=figma,notion&perline=8" alt="Gestion de Projet" width="150px" />                                                                                                                           |
-| **Autres Compétences**           | <img src="https://skillicons.dev/icons?i=bash,debian&perline=8" alt="Autres Compétences" width="150px" />                                                                                                                           |
+### Développement Mobile
+| **Catégorie**            | **Compétences**                                                                                                                                                                       |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Développement Mobile**  | <img src="https://skillicons.dev/icons?i=dotnet,cs,kotlin&perline=8" alt="Développement Mobile" width="150px" />                                                                      |
+
+### Développement d'Applications
+| **Catégorie**                    | **Compétences**                                                                                                                                                               |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Développement d'Applications** | <img src="https://skillicons.dev/icons?i=python,java,rust,cpp&perline=8" alt="Développement d'Applications" width="200px" />                                                    |
+
+### Bases de Données
+| **Catégorie**       | **Compétences**                                                                                                                                                                             |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Bases de Données**| <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=8" alt="Bases de Données" width="150px" />                                                                                    |
+
+### Réseau / Virtualisation / CI/CD
+| **Catégorie**                       | **Compétences**                                                                                                                                                             |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Réseau / Virtualisation / CI/CD** | <img src="https://skillicons.dev/icons?i=linux,jenkins,gitlab,docker&perline=8" alt="Réseau / Virtualisation / CI/CD" width="250px" />                                        |
+
+### Environnements de Développement
+| **Catégorie**                      | **Compétences**                                                                                                                                                              |
+|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Environnements de Développement**| <img src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,webstorm&perline=8" alt="Environnements de Développement" width="250px" />                                     |
+
+### Gestion de Projet
+| **Catégorie**       | **Compétences**                                                                                                                                                                             |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Gestion de Projet**| <img src="https://skillicons.dev/icons?i=figma,notion&perline=8" alt="Gestion de Projet" width="150px" />                                                                                   |
+
+### Autres Compétences
+| **Catégorie**       | **Compétences**                                                                                                                                                                             |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Autres Compétences**| <img src="https://skillicons.dev/icons?i=bash,debian&perline=8" alt="Autres Compétences" width="150px" />                                                                                  |
+
 
 
 ### Soft Skills
