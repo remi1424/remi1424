@@ -56,7 +56,7 @@ En ce qui concerne mes objectifs personnels je veux trouver un métier qui me pa
 
 | **Catégorie**       | **Compétences**                                                                                                                                                                             |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Autres Compétences**| <img src="https://skillicons.dev/icons?i=bash,debian, https://steamuserimages-a.akamaihd.net/ugc/1009310639741043947/C4780FD7B53B39EFE4A536842FC1281A48A1256F/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true &perline=8" alt="Autres Compétences" width="150px" />                                                                                  |
+| **Autres Compétences**| <img src="https://skillicons.dev/icons?i=bash,debian&perline=8" alt="Autres Compétences" width="150px" /> <img src="valorant.jpg" alt="valorant" width="50px" />                                                                                 |
 
 
 
