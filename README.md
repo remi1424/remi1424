@@ -23,15 +23,17 @@ Ce qui est nécessaire dans le monde du travail est la bonne cohésion entre les
 En ce qui concerne mes objectifs personnels je veux trouver un métier qui me passionne et où je m'épanouis. De plus je compte maitriser plusieurs langages et en apprendre de nouveaux. Ensuite j'espère pouvoir travailler en France mais aussi à  l'étranger. Ces différentes expériences professionnelles peuvent m'apporter un enrichissement personnel.
 ## Compétences et techniques transversales
 ### Hard Skills
-- <img  class="image" src="html.png" alt="HTMl" width="75px"/>
-- <img  class="image" src="JavaScript.png" alt="HTMl" width="75px"/>
-- <img  class="image" src="Python.png" alt="HTMl" width="75px"/>
-- <img  class="image" src="Java.png" alt="HTMl" width="75px"/>
-- <img  class="image" src="c.png" alt="HTMl" width="75px"/>
-- <img  class="image" src="Vue.png" alt="HTMl" width="75px"/>
-- <img  class="image" src="php.png" alt="HTMl" width="75px"/>
-- <img  class="image" src="react.png" alt="HTMl" width="75px"/>
-- <img  class="image" src="kotlin.jpg" alt="HTMl" width="75px"/>
+
+| **Catégorie**              | **Skills**                                                                                                                                                                               |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Développement  Web**     | <img src="https://skillicons.dev/icons?i=js,django,html,css,react,nodejs,postman,php&perline=13" alt="WEB development" width="400px" />                                                 |
+| **Développement Mobile**  | <img src="https://skillicons.dev/icons?i=dotnet,cs,kotlin&perline=13" alt="Mobile development" width="150px" />                                                                          |
+| **Développement d'application** | <img src="https://skillicons.dev/icons?i=python,java,rust,cpp&perline=13" alt="Software development" width="185px" />                                                             |
+| **DB**                   | <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=13" alt="DB" width="100px" />                                                                                     |
+| **Réseau - Virtualisation - CI/CD** | <img src="https://skillicons.dev/icons?i=linux,jenkins,gitlab,docker&perline=13" alt="Network / Virtualization / CI/CD" width="185px" />                              |
+| **IDE**                   | <img src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,webstorm,phpstorm&perline=13" alt="IDE" width="250px" />                                                        |
+| **Gestion de projet**     | <img src="https://skillicons.dev/icons?i=figma,notion&perline=13" alt="Project Management" width="100px" />                                                                     |
+| **Autres**                   | <img src="https://skillicons.dev/icons?i=bash,debian&perline=13" alt="Others" width="100px" />
 
 ### Soft Skills
 - Adaptation
