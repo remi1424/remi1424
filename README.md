@@ -28,6 +28,8 @@ En ce qui concerne mes objectifs personnels je veux trouver un métier qui me pa
 - PYTHON
 - JAVA
 - C/C++
+- Vue
+- PHP ( Laravel )
 
 ### Soft Skills
 - Adaptation
@@ -42,6 +44,11 @@ En ce qui concerne mes objectifs personnels je veux trouver un métier qui me pa
 - Organisation d'un forum / JPO
 - Mise en place d'un réseau fictif pour une entreprise
 - Créer une base de donnée à partir d'un fichier csv
+- Mise en place d'une application pour gérer les calendrier prévisionnel
+
+  ## Expériences
+  - Stage de 10 semaines chez Thales
+  - Création d'une solution en Python pour aider à détecter les pannes sur des équipements
 
 ## Me contacter
 Mail : remi.blanchard1@etu.unilim.fr \
