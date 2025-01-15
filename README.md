@@ -23,8 +23,8 @@ Ce qui est nécessaire dans le monde du travail est la bonne cohésion entre les
 En ce qui concerne mes objectifs personnels je veux trouver un métier qui me passionne et où je m'épanouis. De plus je compte maitriser plusieurs langages et en apprendre de nouveaux. Ensuite j'espère pouvoir travailler en France mais aussi à  l'étranger. Ces différentes expériences professionnelles peuvent m'apporter un enrichissement personnel.
 ## Compétences et techniques transversales
 ### Hard Skills
-- <img  class="image" src="html.png" alt="HTMl" width="100%"/>
-- <img  class="image" src="JavaScript.png" alt="HTMl" width="100%"/>
+- <img  class="image" src="html.png" alt="HTMl" width="100px"/>
+- <img  class="image" src="JavaScript.png" alt="HTMl" width="100px"/>
 - <img  class="image" src="Python.png" alt="HTMl" width="100%"/>
 - <img  class="image" src="Java.png" alt="HTMl" width="100%"/>
 - C/C++
