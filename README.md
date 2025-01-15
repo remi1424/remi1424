@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Blanchard Rémi</td>
-    <td>20 ans</td>
+    <td>21 ans</td>
   </tr>
   <tr>
     <td>Etudiant</td>
@@ -38,6 +38,7 @@ En ce qui concerne mes objectifs personnels je veux trouver un métier qui me pa
 - Curiosité
 - Jugement et prise de décision
 - Esprit d'équipe
+  
 ## Présentation des projets universitaires
 - Escape Game en 3D sur Unity en C#
 - Le verger jeu plateau avec du JAVA/JAVA FX
