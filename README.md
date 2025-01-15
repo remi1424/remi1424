@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td>Etudiant</td>
-    <td>Deuxième année BUT Informatique</td>
+    <td>Troisième année BUT Informatique</td>
   </tr>
 </table>
 
