@@ -27,11 +27,11 @@ En ce qui concerne mes objectifs personnels je veux trouver un métier qui me pa
 - <img  class="image" src="JavaScript.png" alt="HTMl" width="75px"/>
 - <img  class="image" src="Python.png" alt="HTMl" width="75px"/>
 - <img  class="image" src="Java.png" alt="HTMl" width="75px"/>
-- <img  class="image" src="c.png" alt="HTMl" width="100%"/>
+- <img  class="image" src="c.png" alt="HTMl" width="75px"/>
 - <img  class="image" src="Vue.png" alt="HTMl" width="75px"/>
-- PHP ( Laravel )
-- React
-- .net MAUI, Kotlin
+- <img  class="image" src="php.png" alt="HTMl" width="75px"/>
+- <img  class="image" src="react.png" alt="HTMl" width="75px"/>
+- <img  class="image" src="kotlin.png" alt="HTMl" width="75px"/>
 
 ### Soft Skills
 - Adaptation
