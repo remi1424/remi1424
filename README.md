@@ -30,6 +30,8 @@ En ce qui concerne mes objectifs personnels je veux trouver un métier qui me pa
 - C/C++
 - Vue
 - PHP ( Laravel )
+- React
+- .net MAUI, Kotlin
 
 ### Soft Skills
 - Adaptation
@@ -40,12 +42,13 @@ En ce qui concerne mes objectifs personnels je veux trouver un métier qui me pa
 - Esprit d'équipe
   
 ## Présentation des projets universitaires
-- Escape Game en 3D sur Unity en C#
-- Le verger jeu plateau avec du JAVA/JAVA FX
-- Organisation d'un forum / JPO
-- Mise en place d'un réseau fictif pour une entreprise
-- Créer une base de donnée à partir d'un fichier csv
-- Mise en place d'une application pour gérer les calendrier prévisionnel
+### Escape Game en 3D sur Unity en C#
+### Le verger jeu plateau avec du JAVA/JAVA FX
+### Organisation d'un forum / JPO
+### Mise en place d'un réseau fictif pour une entreprise
+### Créer une base de donnée à partir d'un fichier csv
+### Mise en place d'une application pour gérer un calendrier prévisionnel
+<img  class="image" src="calendrier.png" alt="ui1" width="100%"/>
 
   ## Expériences
   - Stage de 10 semaines chez Thales
